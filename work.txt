@@ -1,0 +1,14 @@
+total 913
+-rw-r--r-- 1 YUHAN 197121 148660 Apr 16 10:36 CLUCHE.jpg
+-rw-r--r-- 1 YUHAN 197121  35823 Apr 16 10:36 LICENSE
+-rw-r--r-- 1 YUHAN 197121    168 Apr 16 11:09 README.md
+-rw-r--r-- 1 YUHAN 197121 101736 Apr 16 10:36 STELLIVE.webp
+-rw-r--r-- 1 YUHAN 197121     14 Apr 16 10:36 St.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 16 11:09 UNI.txt
+-rw-r--r-- 1 YUHAN 197121 553783 Apr 16 10:36 girlfriend.png
+-rw-r--r-- 1 YUHAN 197121    125 Apr 16 11:09 new.txt
+-rw-r--r-- 1 YUHAN 197121     33 Apr 16 10:36 note
+-rw-r--r-- 1 YUHAN 197121      0 Apr 16 10:36 note.txt
+-rw-r--r-- 1 YUHAN 197121     23 Apr 16 10:36 test.txt
+-rw-r--r-- 1 YUHAN 197121      0 Apr 16 11:13 work.txt
+-rw-r--r-- 1 YUHAN 197121  80838 Apr 16 11:09 스텔라이브.webp
